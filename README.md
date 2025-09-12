@@ -11,6 +11,7 @@ Student of computer science who is passionate about building projects, learning 
 - **Other:** Fluent in English and Spanish
 
 # **Projects**
+- [Personal Website](https://personal-website-chi-self-37.vercel.app/) <br>
 - [Investment Tracker](https://github.com/Koganee/Python_Investment_Tracker) <br>
 - [Minecraft Mods](https://www.curseforge.com/members/kogane/projects) <br>
 - [ComputerCraft Scripts](https://github.com/Koganee/computercraft_scripts)
