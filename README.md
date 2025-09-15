@@ -4,7 +4,7 @@
 Student of computer science who is passionate about building projects, learning new technologies, and developing skills in software engineering.
 
 # Tech Stack
-- **Languages:** Java, Javascript, Python, C++ <br>
+- **Languages:** Java, Javascript, Python, C++, Lua <br>
 - **Developer Tools:** Git, VS Code, IntelliJ, Godot, MongoDB, Firebase <br>
 - **Web Development:** HTML, CSS, React, Bootstrap <br>
 - **Self Study:** Codecademy C++ for Programmers, Codecademy Learn Bootstrap, Codecademy Learn Git & GitHub, Career Essentials in Software Development by Microsoft and LinkedIn. <br>
