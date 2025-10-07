@@ -7,8 +7,13 @@ Student of computer science who is passionate about building projects, learning 
 - **Languages:** Java, Javascript, Python, C++, Lua <br>
 - **Developer Tools:** Git, VS Code, IntelliJ, Godot, MongoDB, Firebase <br>
 - **Web Development:** HTML, CSS, React, Bootstrap <br>
-- **Self Study:** Codecademy C++ for Programmers, Codecademy Learn Bootstrap, Codecademy Learn Git & GitHub, Career Essentials in Software Development by Microsoft and LinkedIn. <br>
-- **Other:** Fluent in English and Spanish
+- **Self Study:**
+  - Codecademy: *C++ for Programmers*  
+  - Codecademy: *Learn Bootstrap*  
+  - Codecademy: *Learn Git & GitHub*  
+  - Codecademy: *Learn React: Introduction Course*  
+  - Codecademy: *Learn Java: Object-Oriented Programming*  
+  - Microsoft & LinkedIn: *Career Essentials in Software Development*
 
 # **Projects**
 - [Personal Website](https://personal-website-chi-self-37.vercel.app/) <br>
